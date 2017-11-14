@@ -15,7 +15,9 @@ img {
 }
 h3 {
 	font-size: 1.5em;
-	text-shadow: 5px 2px #ddd;
+	text-shadow: 5px 2px #eee;
+	background-color: #ffe;
+	text-align: center;
 }
 
 /*italzation fact*/
@@ -32,8 +34,12 @@ h3 {
 .outside {
 	width: 302px;
 	padding: 0 10px 10px 10px;
+	float: left;
+	margin: 10px;
+	background-image: url("bg.png");
 }
 .inside {
 	padding: 0 10px 0 10px;
 	margin-top: 10px;
+	background-color: #ffe;
 }
