@@ -1,1 +1,39 @@
 /* add your CSS here */
+/*formating list*/
+ul {
+	list-style: none;
+	padding: 0;
+}
+li > span {
+	font-weight: bold;
+}
+img {
+	width: 300px;
+	height: 200px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 1px 0px rgba(192,192,192,0.5);
+}
+h3 {
+	font-size: 1.5em;
+	text-shadow: 5px 2px #ddd;
+}
+
+/*italzation fact*/
+.fact {
+	font-style: italic;
+}
+/*border*/
+.frame {
+	border: 1px solid lightgrey;
+	border-radius: 5px;
+	border-radius: 5px;
+	box-shadow: 3px 3px 1px 0px rgba(220,220,220,0.5);
+}
+.outside {
+	width: 302px;
+	padding: 0 10px 10px 10px;
+}
+.inside {
+	padding: 0 10px 0 10px;
+	margin-top: 10px;
+}
