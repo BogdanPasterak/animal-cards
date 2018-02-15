@@ -7,17 +7,21 @@ ul {
 li > span {
 	font-weight: bold;
 }
+li:hover {
+	font-size: 115%;
+	font-weight: bold;
+	background-color: #DDD;
+}
 img {
 	width: 300px;
 	height: 200px;
-	border-radius: 5px;
-	box-shadow: 5px 5px 1px 0px rgba(192,192,192,0.5);
 }
 h3 {
 	font-size: 1.5em;
 	text-shadow: 5px 2px #eee;
 	background-color: #ffe;
 	text-align: center;
+	animation: rotate 10s infinite;
 }
 
 /*italzation fact*/
@@ -27,8 +31,7 @@ h3 {
 /*border*/
 .frame {
 	border: 1px solid lightgrey;
-	border-radius: 5px;
-	border-radius: 5px;
+	border-radius: 10px;
 	box-shadow: 3px 3px 1px 0px rgba(220,220,220,0.5);
 }
 .outside {
@@ -41,5 +44,23 @@ h3 {
 .inside {
 	padding: 0 10px 0 10px;
 	margin-top: 10px;
-	background-color: #ffe;
+	background-color: #FFE;
+}
+.read:hover {
+	font-size: 115%;
+	font-weight: bold;
+	background-color: #DDD;
+}
+
+@keyframes rotate {
+  from {
+		-ms-transform: rotateY(0deg);
+		-webkit-transform: rotateY(0deg);
+		transform: rotateY(0deg);
+	}
+  to {
+		-ms-transform: rotateY(360deg);
+		-webkit-transform: rotateY(360deg);
+		transform: rotateY(360deg);
+	}
 }

@@ -1,0 +1,25 @@
+  Page resembles card from design prototype.
+
+1. The text is italicized for the animal’s interesting fact.
+2. The labels are bolded for the animal’s list items.
+3. The dots are removed from the animal's list items.
+4. Uses border around animal’s name, image, and information (interesting fact, list items, and description).
+5. Uses border around animal’s information.
+6. Uses spacing between animal’s name, image, and information.
+7. Card width should be fixed and include the spacing around the image (Since image is 300px wide, card should be 300px + spacing on either side. Card should not expand with the browser window).
+
+  Feel free to customize your information and styles so long as you follow the above rules. For inspiration, you can try playing around with background colours or border radius!
+
+Translate to polish
+
+  Strona przypomina kartę z projektu prototypu.
+
+1. Tekst jest pochyły dla ciekawego faktu zwierzęcia.
+2. Etykiety są pogrubione dla pozycji na liście zwierząt.
+3. Kropki są usuwane z pozycji listy zwierząt.
+4. Użyj obramowanie wokół nazwy zwierzęcia, obrazu i informacji (interesujący fakt, elementy listy i opis).
+5. Użyj obramowanie wokół informacji zwierzęcia.
+6. Użyj odstępy między nazwą, obrazem i informacją zwierzęcia.
+7. Szerokość karty powinna być ustalona i zawierać odstępy wokół obrazu (ponieważ obraz ma szerokość 300 pikseli, karta powinna mieć odstępy po 300 pikseli + po obu stronach karty nie powinna się rozszerzać za pomocą okna przeglądarki).
+
+  Możesz dowolnie dostosowywać informacje i style, pod warunkiem przestrzegania powyższych zasad. Dla inspiracji możesz spróbować zabawy z kolorami tła lub promieniem obramowania!
